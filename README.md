@@ -1,1 +1,2 @@
-# deeplearning_jesture_detection
+# GHL_dataset
+# encoder-decoder_algorithm
